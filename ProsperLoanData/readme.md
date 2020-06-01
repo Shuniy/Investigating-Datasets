@@ -1,4 +1,4 @@
-# (Prosper Loan Data Analysis)
+# Prosper Loan Data Analysis
 ## by (Shubham Kumar)
 
 
