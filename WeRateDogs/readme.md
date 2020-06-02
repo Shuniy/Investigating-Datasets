@@ -35,11 +35,11 @@ The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their 
 ### Gathering Data
 - *We collected data from the twitter using twitter api. To access twitter api, a twitter developer account is required and then twitter will provide api keys required to authorize a connection to the twitter. These keys are unique to every indivisual and are private. Sharing these keys are not allowed. After getting keys, we use **tweepy** library to access and authorize twitter api.* 
 
-- *- Then, after getting connection, twitter api transmits data into the form of json. So, **json** library is used to load and dump the received json data from the twitter api and save the data in the txt format.*
+- *Then, after getting connection, twitter api transmits data into the form of json. So, **json** library is used to load and dump the received json data from the twitter api and save the data in the txt format.*
 
-- *- Now, the txt file should be loaded and converted into the pandas dataframe.*
+- *Now, the txt file should be loaded and converted into the pandas dataframe.*
 
-- *- We collected data with dog image predictions in it from the server using **request** library and loaded data into the dataframe using **bytesIO** library.*
+- *We collected data with dog image predictions in it from the server using **request** library and loaded data into the dataframe using **bytesIO** library.*
 
 ### Assessing Data
 
