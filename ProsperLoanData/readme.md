@@ -27,7 +27,7 @@
 
 ## Summary of Findings
 
->- Distribution of the Prosper Scores is interesting as it has kind of 3 Modes. We can find more about these values in bivariate analysis. There are many columns in the dataset which should not be used, also I have to change Listing Category_numeric to their original values and many columns to Categorical data.
+- Distribution of the Prosper Scores is interesting as it has kind of 3 Modes. We can find more about these values in bivariate analysis. There are many columns in the dataset which should not be used, also I have to change Listing Category_numeric to their original values and many columns to Categorical data.
 - *Distribution of Employment status, might contain redundant data as the Employed Status might contain Full Time and Part time and other things like Firemen or social service people etc.*
 - *As checked before the Others data contains the data of Students, Firemen, Plumber etc who don't have fixed amount of earning every month. So, most of the time others data will provide a high bar. No, i didn't remove anything because seperating the others profession will reduce the credibility of the category who don't have fixed incomes also this will create more shorter proportions and create outliers in the plots.*
 - *Prosper Ratings are assigned by considering many factors of the person which includes Employment Status, Occupation, Loan Amount and affects many factors also including Number of Investors, Loan Amount, Borrower Rates in direct or indirect manner. **Prosper Ratings are correlated with many variables** including High rates, Monthly laon payments and how much amount to give to an indivisual. **Brorrower Rates are directly proportional to the Annual Percentage rate**.*
