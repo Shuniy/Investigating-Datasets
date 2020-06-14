@@ -11,12 +11,12 @@ Dataset can be found [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/Oc
 
 ## Conclusions
 
-- Drama, Comedy, Thriller and Action are four most-made genres.
+- **Drama, Comedy, Thriller and Action** are four most-made genres.
 - Maximum Number Of Movies Release In year 2014.
-- 'Avatar', 'Star Wars' and 'Titanic' are the most profitable movies.
+- **'Avatar', 'Star Wars' and 'Titanic'** are the most profitable movies.
 - Short or Long duration movies are more popular than long duration movies.
 - Average runtime of the movies are decreasing year by year.
-- May, june, november and december are most popular month for releasing movies, if you want to earn more profit.
+- **May, june, november and december** are most popular month for releasing movies, if you want to earn more profit.
 - Revenue is directly connected to the budget.
 - Movies with higher budgets have shown a corresponding increase in the revenues.
 
