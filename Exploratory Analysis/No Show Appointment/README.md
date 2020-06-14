@@ -23,5 +23,4 @@
 - Pandas
 - Python3
 - Matplotlib
-- Seaborn
 - datetime
