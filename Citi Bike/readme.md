@@ -64,7 +64,7 @@
 - [Citi Bike Data Set](https://www.citibikenyc.com/system-data)
 - [Haversine formula](https://www.movable-type.co.uk/scripts/latlong.html) used to calculate distances using latitude and longitude
 - [Seaborn catplot](https://seaborn.pydata.org/generated/seaborn.catplot.html) documentation
-- [IPython Display](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html) documentation
+- [IPython Display](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html)
 -[Citi Bikes](https://www.citibikenyc.com/)
 
 # Installations required:
