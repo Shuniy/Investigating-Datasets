@@ -1,0 +1,24 @@
+{
+    "id": "B255AF7A",
+    "path": "D:/DataScience/UberData/uber_analysis.r",
+    "project_path": "uber_analysis.r",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1595745635562.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "201,0",
+        "scrollLine": "186"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1595828364,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595828486799,
+    "read_only": false,
+    "read_only_alternatives": []
+}
