@@ -21,3 +21,17 @@
 
 - Python3 with jupyter notebook to run ipynb file.
 - [Anaconda distribution](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjg46f2x4HqAhUg7XMBHWj2CCYQFjAAegQIAhAC&url=https%3A%2F%2Fwww.anaconda.com%2F&usg=AOvVaw35SsShb8zD5Oo3Jsqx8xdn)
+
+### Datasets
+- Citi Bike
+- Enron
+- PISA
+- Prosper Loan Data
+- WeRateDogs
+- FBI Gun
+- No Show Appointment
+- Soccer
+- TMDB
+- Titanic
+- Uber
+- Weather Trends
